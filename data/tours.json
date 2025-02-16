@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "1",
+    "title": "Savannah Adventure",
+    "description": "Experience the thrill of an unforgettable adventure in the vast African Savannah.",
+    "price": 500,
+    "location": "Nairobi",
+    "image": "/jp-travels/savannah.jpg",
+    "date": "2025-04-15T00:00:00.000Z",
+    "popularity": 5,
+    "bookings": 10
+  },
+  {
+    "_id": "2",
+    "title": "Jungle Exploration",
+    "description": "Venture deep into the jungle and experience its stunning wildlife.",
+    "price": 700,
+    "location": "Nairobi",
+    "image": "/jp-travels/jungle.jpg",
+    "date": "2025-05-20T00:00:00.000Z",
+    "popularity": 8,
+    "bookings": 15
+  },
+  {
+    "_id": "3",
+    "title": "Desert Safari",
+    "description": "Explore the vast desert with a luxury safari experience.",
+    "price": 800,
+    "location": "Nairobi",
+    "image": "/jp-travels/desert.jpg",
+    "date": "2025-06-10T00:00:00.000Z",
+    "popularity": 7,
+    "bookings": 20
+  },
+  {
+    "_id": "4",
+    "title": "Mountain Trek",
+    "description": "Climb the majestic mountains and enjoy breathtaking views.",
+    "price": 600,
+    "location": "Nairobi",
+    "image": "/jp-travels/mountain.jpg",
+    "date": "2025-07-05T00:00:00.000Z",
+    "popularity": 6,
+    "bookings": 12
+  },
+  {
+    "_id": "5",
+    "title": "Lakeside Retreat",
+    "description": "Relax by the serene lakeside and enjoy peaceful surroundings.",
+    "price": 550,
+    "location": "Nairobi",
+    "image": "/jp-travels/lakeside.jpg",
+    "date": "2025-08-18T00:00:00.000Z",
+    "popularity": 9,
+    "bookings": 18
+  }
+]
